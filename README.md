@@ -21,7 +21,7 @@ Feel free to connect with me!
 
 <p align="left">
 <a href="mailto:imam.fahrezi67@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="your-email" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-linkedin-profile/imamrf074" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin-profile/imamrf074" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1bbdf064-ea35-4b87-9989-8f152eb2fda0" alt="your-linkedin" height="30" width="40" /></a>
 </p>
 <!--
 **IamImam7/IamImam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
