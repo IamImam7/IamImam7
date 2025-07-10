@@ -1,6 +1,6 @@
 ## Hi there, I am Imam 👋
 
-<a href="www.linkedin.com/in/imam-ridho-fahrezi-47a950331"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin-profile/imamrf074"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a **Full-Stack Developer** from Indonesia with a passion for building clean and efficient web applications. I specialize in the Laravel and Vue.js ecosystem.
 
@@ -21,7 +21,7 @@ Feel free to connect with me!
 
 <p align="left">
 <a href="mailto:imam.fahrezi67@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="your-email" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/imam-ridho-fahrezi-47a950331" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin-profile/imamrf074" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505" alt="your-linkedin" height="30" width="40" /></a>
 </p>
 <!--
 **IamImam7/IamImam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
