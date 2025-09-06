@@ -12,9 +12,9 @@ I'm a **Full-Stack Developer** from Indonesia with a passion for building clean 
 
 ### 💡 Core Technologies
 
-- **Backend:** Laravel, PHP, Livewire
+- **Backend:** Laravel, PHP, Livewire, Golang, GoFiber
 - **Frontend:** Vue.js, Vue Router, Pinia/Vuex, Tailwind CSS, Vite
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Composer, NPM, Postman
 
 Feel free to connect with me!
